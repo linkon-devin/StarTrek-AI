@@ -8,6 +8,8 @@
 import SwiftUI
 
 public struct AvatarView: View {
+    public init() {}
+    
     public var body: some View {
         Text("Hello, World!")
                     .font(.title)
